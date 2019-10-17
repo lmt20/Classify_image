@@ -1,0 +1,7 @@
+Type extract: sift100           
+N_cluster: 128          
+Best n_neighbor: 9          
+Score average: 0.8430000000000001Type extract: surf64           
+N_cluster: 128          
+Best n_neighbor: 4          
+Score average: 0.7909999999999999

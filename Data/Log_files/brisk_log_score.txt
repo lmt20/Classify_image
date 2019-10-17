@@ -1,0 +1,3 @@
+Type extract: brisk           
+N_cluster: 64          
+Score average: 0.6593333333333332

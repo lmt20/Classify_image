@@ -1,0 +1,9 @@
+Type extract: harrislaplace_CM           
+N_cluster: 64          
+Score average: 0.3000000000000001Type extract: harrislaplace_CM           
+N_cluster: 128          
+Score average: 0.3458333333333335Type extract: harrislaplace_CM           
+N_cluster: 196          
+Score average: 0.3688333333333334Type extract: harrislaplace_CM           
+N_cluster: 256          
+Score average: 0.4003333333333334

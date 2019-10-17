@@ -1,0 +1,9 @@
+Type extract: surf64           
+N_cluster: 64          
+Score average: 0.7563333333333336Type extract: surf64           
+N_cluster: 128          
+Score average: 0.7723333333333329Type extract: surf64           
+N_cluster: 192          
+Score average: 0.7723333333333332Type extract: surf64           
+N_cluster: 256          
+Score average: 0.7466666666666667

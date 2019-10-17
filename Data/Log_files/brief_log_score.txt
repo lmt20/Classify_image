@@ -1,0 +1,9 @@
+Type extract: brief           
+N_cluster: 64          
+Score average: 0.515166666666667Type extract: brief           
+N_cluster: 128          
+Score average: 0.5066666666666668Type extract: brief           
+N_cluster: 196          
+Score average: 0.4850000000000001Type extract: brief           
+N_cluster: 256          
+Score average: 0.45500000000000007

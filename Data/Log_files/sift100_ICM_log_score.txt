@@ -1,0 +1,9 @@
+Type extract: sift100_ICM           
+N_cluster: 64          
+Score average: 0.3146666666666668Type extract: sift100_ICM           
+N_cluster: 128          
+Score average: 0.3468333333333332Type extract: sift100_ICM           
+N_cluster: 196          
+Score average: 0.3486666666666668Type extract: sift100_ICM           
+N_cluster: 256          
+Score average: 0.3206666666666668

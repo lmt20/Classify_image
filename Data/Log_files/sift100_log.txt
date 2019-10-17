@@ -1,0 +1,15 @@
+Type extract: sift100           
+N_cluster: 64          
+Score average: 0.8293333333333327
+
+Type extract: sift100           
+N_cluster: 128          
+Score average: 0.8556666666666668
+
+Type extract: sift100           
+N_cluster: 196          
+Score average: 0.8648333333333335
+
+Type extract: sift100           
+N_cluster: 256          
+Score average: 0.8583333333333337
